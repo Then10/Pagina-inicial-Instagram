@@ -2,7 +2,7 @@
 ## 📃 Descrição
 
 
-Alua de como criar uma pagina basica.
+Alua de como criar uma pagina basica de acesso ao Instagram.
 
 
 ## 🖱️ Acesso
